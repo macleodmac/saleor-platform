@@ -1,6 +1,6 @@
 [submodule "saleor"]
 	path = saleor
-	url = https://github.com/mirumee/saleor.git
+	url = git@github.com:macleodmac/saleor.git
 [submodule "saleor-storefront"]
 	path = saleor-storefront
 	url = https://github.com/mirumee/saleor-storefront.git
